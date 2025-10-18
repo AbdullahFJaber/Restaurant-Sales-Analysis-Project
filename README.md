@@ -50,7 +50,8 @@ This project is based on open-source data for educational purposes. It represent
 
 
 ## 📑 Pivot Tables Preview
-<img width="676" height="450" alt="Pivot Table" src="https://github.com/user-attachments/assets/fe2a14f1-6e80-4b0a-80a8-cd6c11506565" />
+<img width="698" height="404" alt="Pivot Table" src="https://github.com/user-attachments/assets/62b90bd5-d5ca-43bc-8475-7db17c0a569c" />
+
 
 
 
