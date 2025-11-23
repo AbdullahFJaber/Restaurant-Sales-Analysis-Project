@@ -98,7 +98,7 @@ This project is based on open-source data for educational purposes. It represent
 | Monday     | 132,463.81     |
 | Grand Total| 821,544.37     |
 --------------------------------------
-| Row Labels         | Mohamed Hafez | Ahmed Hafez | Sara Ebrahim | Khaled Maaz | Ali Sayed | Grand Total |
+| Products      | Mohamed Hafez | Ahmed Hafez | Sara Ebrahim | Khaled Maaz | Ali Sayed | Grand Total |
 |--------------------|---------------|-------------|--------------|-------------|-----------|-------------|
 | Beverages          | 52,329.96     | 31,004.50   | 14,000.70    | 22,402.30   | 10,201.10 | 129,938.56  |
 | Burgers            | 121,574.46    | 93,268.20   | 70,639.62    | 60,676.29   | 45,841.71 | 392,000.28  |
@@ -116,7 +116,7 @@ This project is based on open-source data for educational purposes. It represent
 | Sara Ebrahim   |            | 28,235.82  |            |               | 100,698.95  | 128,934.77  |
 | **Grand Total**| 211,522.88 | 283,555.36 | 143,836.02 | 81,931.16     | 100,698.95  | 821,544.37  |
 --------------------------------------
-| Row Labels | Sum of Revenue |
+| Month | Sum of Revenue |
 |------------|----------------|
 | **November** |                |
 | 07-Nov     | 5,206.95       |
